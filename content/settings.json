@@ -1,14 +1,14 @@
 {
   "domain": "maxparts.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#ff5900",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "journal",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/maxparts",
-  "logo": "/img/uploads/logo-sem-site-2023-original.png",
+  "logo": "/img/uploads/logo-sem-site-2023-horizontal.jpg",
   "name": "maxparts",
   "short_name": "Max Parts",
   "lang": "pt_br",
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/adesivo-automotivo-recortado-18-x-11-5cm.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#0b3a8f",
   "icon": "/img/uploads/adesivo-automotivo-recortado-18-x-11-5cm.png",
   "store_id": 51452,
   "description": "maxparts",
