@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ff5900",
   "theme": {
-    "bootswatch": "journal",
-    "custom": "_"
+    "bootswatch": "simplex",
+    "custom": "ecom-beauty"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/maxparts",
