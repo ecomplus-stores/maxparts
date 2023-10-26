@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/maxparts",
   "logo": "/img/uploads/logo-sem-site-2023-original.png",
   "name": "maxparts",
-  "short_name": "Max Parts",
+  "short_name": "AppMax",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#152c95",
   "icon": "/img/uploads/adesivo-automotivo-recortado-18-x-11-5cm.png",
   "store_id": 51452,
-  "description": "maxparts",
+  "description": "A maior loja de Componentes de Automotivos do  Brasil",
   "large_icon": "/img/uploads/adesivo-automotivo-recortado-18-x-11-5cm.png"
 }
