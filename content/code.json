@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".product-item > h3 > a { font-family: roboto; }\n",
   "html_head": "",
   "html_body": ""
 }
