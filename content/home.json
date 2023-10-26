@@ -24,14 +24,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "autoplay": 1000,
+      "page": 1,
+      "title": "Mais Vendidos",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
+      "headless": true,
+      "type": "collection-shelf",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "offers"
     },
     {
       "type": "dynamic-showcase",
