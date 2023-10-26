@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Roboto\">\n<style>\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n</style>",
+  "html_head": "<html>\n<head>\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Roboto\">\n<style>\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n</style>\n</head>\n<body>\n\n<h1>Roboto Font</h1>\n<p>Lorem ipsum dolor sit amet.</p>\n<p>123456790</p>\n\n</body>\n</html>",
   "html_body": ""
 }
