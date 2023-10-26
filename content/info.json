@@ -6,7 +6,7 @@
   "installments": {
     "show": true,
     "text": "Parcele sem juros",
-    "title": "ATÉ 4X SEM JUROS"
+    "title": ""
   },
   "exchange": {
     "show": false,
