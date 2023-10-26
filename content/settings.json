@@ -4,7 +4,7 @@
   "primary_color": "#ff5800",
   "theme": {
     "bootswatch": "_",
-    "custom": "ecom-beauty"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/maxparts",
