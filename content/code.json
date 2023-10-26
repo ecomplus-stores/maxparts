@@ -1,5 +1,5 @@
 {
   "css": "<style>\nbody {\n  font-family: \"Roboto\", sans-serif;\n}\n</style>",
-  "html_head": "",
+  "html_head": "<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Roboto\">",
   "html_body": ""
 }
