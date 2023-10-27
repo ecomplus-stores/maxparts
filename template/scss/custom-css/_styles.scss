@@ -1,1 +1,14 @@
 // Add your custom CSS here.
+.product-item:hover {
+    box-shadow: 0 0 0.5em BLACK
+}
+h1, h2, h3, h4, h5, h6, p, span, em, small, div, body, a {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.btn.product-card__favorite.fade {
+    opacity: 1;
+    i {
+        color: red;
+    }
+}
