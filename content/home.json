@@ -24,7 +24,7 @@
       "enabled": true
     },
     {
-      "autoplay": 1000,
+      "autoplay": 10000,
       "page": 1,
       "title": "Mais Vendidos",
       "shuffle": true,
