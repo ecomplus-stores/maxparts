@@ -1,6 +1,12 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "",
+  "meta_description": "",
+  "body": "N﻿ossa Localização",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15369.94839478887!2d-56.102583!3d-15.619029!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x939db1e32e374137%3A0xae7913dad3ba2d85!2sMax%20Parts%20Componentes%20Automotivos!5e0!3m2!1spt-BR!2sbr!4v1698756202247!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+    }
+  ]
 }
