@@ -1,3 +1,12 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "id": "MAX PARTS",
+      "img": "/img/uploads/adesivo-automotivo-recortado-18-x-11-5cm.png",
+      "skus": [
+        "3837",
+        "15601"
+      ]
+    }
+  ]
 }
