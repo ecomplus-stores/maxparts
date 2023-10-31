@@ -10,7 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-site-2-1-.png",
+          "img": "/img/uploads/max-banner-black-1.png",
           "link": ""
         },
         {
@@ -36,28 +36,9 @@
       "sort": "offers"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/og-image.png"
-        },
-        {
-          "img": "/img/uploads/og-image.png"
-        },
-        {
-          "img": "/img/uploads/og-image.png"
-        },
-        {
-          "img": "/img/uploads/og-image.png"
-        }
-      ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 10000
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
     }
   ]
 }
