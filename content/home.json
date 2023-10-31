@@ -34,6 +34,30 @@
       "limit": 12,
       "collection_id": null,
       "sort": "offers"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/og-image.png"
+        },
+        {
+          "img": "/img/uploads/og-image.png"
+        },
+        {
+          "img": "/img/uploads/og-image.png"
+        },
+        {
+          "img": "/img/uploads/og-image.png"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 10000
     }
   ]
 }
