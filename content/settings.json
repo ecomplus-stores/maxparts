@@ -4,12 +4,12 @@
   "primary_color": "#ff6b00",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/maxparts",
   "logo": "/img/uploads/logo-sem-site-2023-original.png",
-  "name": "maxparts",
+  "name": "Max Parts - Sua Loja de Componentes Automotivos",
   "short_name": "AppMax",
   "lang": "pt_br",
   "currency": "BRL",
