@@ -4,19 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 100000,
+      "autoplay": 15000,
       "full_width": false,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "https://lh3.googleusercontent.com/pw/ADCreHfPhs7CohB-jg807z_wTUhiuaK6uQid95WEm-OnkSyKKyklUdMYMM8sWrvxE7wrGtWeu5o8dYW2K7Z5sdrNX-KjYMLcAk9khk_iB9iR68zIm6QvjpVeaQtjkjefaduIfRtInMwEE3lWGtIWtyUBzGZMJVkJwYXZ48u1sijnuIMo9Yl44chDA0fPIrARcPQXReSTZroL-y4LjkBN-nNsgk8p4hZPY7BhQvvl4fqE6UDXO-7DnFp6jBrlB732IVa5T5wmAoMVAdZM10eMiIXzUoM1cKVVED7rcaSoBucJpYOIwuguYgZyalv0a6hBztaurLP7BdA4RAbzJb5r2Y-rvO0fNWKW4BwKnZ8tCHlhrIMWdlihYkGiJuq_rmas2YLnsWDS5XRBjV8akzbTnWRhKrpYDuQf5mjsN1O-kBqulro1pSiMchOMZzmH_lOvwcbpgW8kpCS_aUzzRay1ZQdvF1VKDf5kkCfmKziSHPmkL4CImUZ8p_9_JSQWi60anUBSfn9whaZvPEWXRgSES3C84f4yDhlOvrp7QYJuj1C0mUKtdQ9gOVoR9AtwUWqI2lRvNfAyKyeOYM7ocWXnFVuIU4rCp-PWKwLopLZGFcEUTdtxeT_5n2lNZvrIJX_aNjCoLbZmGpcV5e6CV2rZFBg9MIBeyEJo7n6N86MJm9-kMvczfH9rbaOPeJPn8Cx8591RYrfT4aQipd786CgQRBXw-3FYkQOZDa_FUr1v_LYpjQ79ojAUVdNJTVeMATd71vOJzG8eo0adu3MgD6u8NgJzFZxZECG9sixwtdvc1WjRScVbpAl8efBJ5D7xKqkd3DDgIUqsrCPSoXzziC8vvv_TivifAm4fUR7MVlzyQAQ3_m7LGxKUTbasdBTw041ZSY5NzhrcTAu8nIFZ=w1440-h450-no?authuser=0",
-          "link": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/todas-categorias-2-.png"
+          "start": "2023-11-03T13:33:28.437Z",
+          "end": "2023-11-30T04:00:00.000Z",
+          "img": "/img/uploads/1.png"
         }
       ]
     },
