@@ -2,13 +2,36 @@
 .product-item:hover {
     box-shadow: 0 0 0.5em BLACK
 }
-h1, h2, h3, h4, h5, h6, p, span, em, small, div, body, a {
+h1, h2, h3, h4, h5, h6, p, span, em, small, div, body, a, strong, b, s {
     font-family: 'Nunito', sans-serif !important;
 }
 
-.btn.product-card__favorite.fade {
-    opacity: 1;
-    i {
-        color: red;
-    }
+input::-webkit-input-placeholder {
+    font-family: 'Nunito', sans-serif !important;
+  }
+  
+  input:-ms-input-placeholder {
+    font-family: 'Nunito', sans-serif !important;
+  }
+  
+  input:-moz-placeholder {
+    font-family: 'Nunito', sans-serif !important;
+  }
+  
+  input::-moz-placeholder {
+    font-family: 'Nunito', sans-serif !important;
+  }
+
+.product__buy button:hover {
+  background-color: var(--success);
+  border-color: var(--success)
+}
+
+.product-card__prices .prices__compare s {
+    color: red;
+    opacity: .7
+}
+
+.product-card__prices .prices__value {
+    color: var(--success);
 }
