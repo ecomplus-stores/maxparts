@@ -158,7 +158,9 @@ const themeCustom = _.settings.theme.custom || ''
 
       <div class="col-12 col-xl order-<%= themeCustom === 'ecom-beauty' ? '' : 'lg-'%>first">
         <h2 class="footer__title footer__store">
-          <%= footer.description.title || _.settings.name %>
+          <a href="/">
+            <%- await include('@/layout/inc/logo', { _ }) %>
+          </a>
         </h2>
         <p><%- footer.description.text || _.settings.description %></p>
 
