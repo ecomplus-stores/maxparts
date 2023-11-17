@@ -1,14 +1,16 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Blog Max Parts",
+  "meta_title": "Blog Max Parts: Dicas, Tendências e Novidades em Componentes Automotivos",
+  "meta_description": "Explore o Blog Max Parts e aprofunde-se no mundo dos componentes automotivos. Encontre dicas especializadas, fique por dentro das últimas tendências e descubra novidades emocionantes. Sua fonte confiável para aprimorar o desempenho do seu veículo. Max Parts - Conectando você ao futuro automotivo.",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Blog Max Parts: Dicas, Tendências e Novidades em Componentes Automotivos",
+      "description": "Descubra na Max Parts as melhores peças automotivas para elevar o desempenho do seu veículo. Qualidade, confiança e inovação para sua jornada nas estradas."
     },
     {
       "type": "blog",
