@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "Faça o Download do Catálogo Max Parts aqui!",
-    "link": "https://drive.google.com/file/d/1ZRTNEqfGpo6Z0L9giyOE6BXSd8I_NO7i/view?usp=sharing",
-    "background": "#0e4194",
+    "text": "",
+    "link": "",
+    "background": "#000f47",
     "color": "#ffffff"
   },
   "contacts_stripe": {
