@@ -31,7 +31,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "autoplay": 15000,
